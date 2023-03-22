@@ -1,1 +1,1 @@
-Code implementation of "HGAN: Hierarchical GAN for Text-to-Image Generation"
+Code implementation of "TTIG: Hierarchical GAN for Text-to-Image Generation"
